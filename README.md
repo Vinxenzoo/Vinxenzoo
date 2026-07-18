@@ -23,7 +23,7 @@ Benvenuto nel mio profilo GitHub. Mi piace trasformare idee in codice e imparare
 | **Strumenti** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 
 ## 📈 Le mie Statistiche GitHub
-![Le mie statistiche GitHub](https://streak-stats.demolab.com/?user=Vinxenzoo&theme=dracula&hide_border=true)
+![Linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinxenzoo&theme=dracula&hide_border=true&layout=compact)
 ## 📫 Contatti e Link utili
 
 *   📧 **Email:** Vincenzo.capasso10@studenti.unina.it
