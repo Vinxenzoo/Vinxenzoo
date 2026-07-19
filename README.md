@@ -8,10 +8,10 @@ Benvenuto nel mio profilo GitHub. Mi piace trasformare idee in codice e imparare
 
 ## 👨‍💻 Su di me
 
-*   🌱 In questo periodo sto studiando a fondo Neural Network And Deep Learning
-*   🤝 Sono aperto a collaborare su ogni tipo di progetto in cui possa trovare cose da imparare
-*   💬 Puoi chiedermi consigli su  JavaScript, Python, Architetture Web, C++, Typescript, Angular
-*   ⚡ Curiosità: Mi piace tantissimo la logica, trovo molto più incentivante qualcosa che metta alla prova il mio ragionamento che fare dei semplici esami
+*    In questo periodo sto studiando a fondo Neural Network And Deep Learning
+*    Sono aperto a collaborare su ogni tipo di progetto in cui possa trovare cose da imparare
+*    Puoi chiedermi consigli su  JavaScript, Python, Architetture Web, C++, Typescript, Angular
+*    Curiosità: Mi piace tantissimo la logica, trovo molto più incentivante qualcosa che metta alla prova il mio ragionamento che fare dei semplici esami
 
 ## 🛠️ Tecnologie e Strumenti
 
@@ -22,7 +22,7 @@ Benvenuto nel mio profilo GitHub. Mi piace trasformare idee in codice e imparare
 | **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **Strumenti** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 
-## 📫 Contatti e Link utili
+##  Contatti e Link utili
 
 *   📧 **Email:** Vincenzo.capasso10@studenti.unina.it
 
