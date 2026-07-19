@@ -6,14 +6,14 @@ Benvenuto nel mio profilo GitHub. Mi piace trasformare idee in codice e imparare
 
 ---
 
-## 👨‍💻 Su di me
+##  Su di me
 
 *    In questo periodo sto studiando a fondo Neural Network And Deep Learning
 *    Sono aperto a collaborare su ogni tipo di progetto in cui possa trovare cose da imparare
 *    Puoi chiedermi consigli su  JavaScript, Python, Architetture Web, C++, Typescript, Angular
 *    Curiosità: Mi piace tantissimo la logica, trovo molto più incentivante qualcosa che metta alla prova il mio ragionamento che fare dei semplici esami
 
-## 🛠️ Tecnologie e Strumenti
+##  Tecnologie e Strumenti
 
 | Categoria | Competenze |
 | :--- | :--- |
